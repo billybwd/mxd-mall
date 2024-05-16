@@ -1,0 +1,10 @@
+nohup: ignoring input
+
+> newbee-mall-h5-v3@0.0.0 dev
+> vite
+
+
+  VITE v4.5.3  ready in 454 ms
+
+  ➜  Local:   http://localhost:8088/
+  ➜  Network: http://192.168.123.4:8088/
